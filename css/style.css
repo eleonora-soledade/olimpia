@@ -45,24 +45,25 @@ body {
 }
 
 .slogan1 {
-  margin-top: -5rem;
-  padding-top: 1rem;
+  margin-top: -8rem;
+  margin-left: 2rem;
 }
 
 .slogan2 {
   margin-top: -5rem;
-  padding-top: 1.5rem;
+  margin-left: 2rem;
 }
 
 .slogan3 {
-  margin-top: -5rem;
-  padding-top: 2rem;
+  padding-top: -2rem;
+  margin-left: 2rem;
 }
 
 .container {
   display: block;
   background-color: #5f7667;
   height: 3em;
+  margin-top: 3rem;
 }
 
 .nav li {
